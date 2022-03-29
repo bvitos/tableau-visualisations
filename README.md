@@ -15,7 +15,7 @@ Based on audio feature analysis, four stylistic clusters are identified within a
 
 ## Power BI Visualisation for the Bandcamp Dance Librarian project
 
-This repository also contains a Power BI report created for the sane project (`bandcamp-lib-visual.pbix`).
+This repository also contains a Power BI report created for the same project (`bandcamp-lib-visual.pbix`).
 
 The online report can be accessed through this [link](https://app.powerbi.com/reportEmbed?reportId=5ef459c0-df50-4bcd-925d-eebc8688eaf9&autoAuth=true&ctid=e47e44e9-0f7b-4030-8f3a-6c56d8623c5e&config=eyJjbHVzdGVyVXJsIjoiaHR0cHM6Ly93YWJpLWdlcm1hbnktd2VzdC1jZW50cmFsLXByaW1hcnktcmVkaXJlY3QuYW5hbHlzaXMud2luZG93cy5uZXQvIn0%3D).
 
